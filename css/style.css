@@ -115,17 +115,25 @@ footer{
 }
 
 
-
 .gallery figure img{
-	width: 250px;
-	height: 250px;
-	border:1px solid black;
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
 }
 
+.gallery{
+	text-align: centr;
 
-
-
+}
 .gallery figure{
+	display: inline-block;
+	border: 1px solid black;
 	position: relative;
-	float:left;
+	/*float : left;*/
+	padding: 5px;
+	margin: 10px;
+	text-align: center;
+	font-style: italic;
+
+
 }

@@ -1,0 +1,141 @@
+{
+	"basics":{
+		"email": "mobinshaikh180@gmail.com",
+		"name": "SHAIKH MOHD MOBIN",
+		"phone":"contact me on mail",
+		"summary":"HeY! HOW YOU DOING?",
+		"location":{
+		"city":"Mumbai",
+		"region":"Mumbai-Suburban",
+		"state":"Maharashtra",
+		"country":"India",
+		"countryCode":"IN"
+
+		}
+
+	},
+	"education":[
+		{
+			"instuition":"Mar Thoma School Maharashtra",
+			"area":"Secondary School Certificate",
+			"studytype": "TENTH STANDARD",
+			"year":"2013",
+			"class":"Fisrt class"
+
+		},
+		{
+			"instuition":"Swami Ramakrishna Paramhans",
+			"area":"Higher Secondary School Certificate",
+			"studytype": "TWELVE STANDARD",
+			"year":"2016",
+			"class":"Fisrt class"
+
+		}
+	],
+	"skills":{
+		"languages":[
+			{
+				"name":"c",
+				"level":"intermidiate",
+				"ratings":"6"
+			},
+			{
+				"name":"java",
+				"level":"beginner",
+				"ratings":"4"
+			},
+			{
+				"name":"python",
+				"level":"intermidiate",
+				"ratings":"7"
+			}
+
+			
+		],
+		"os":[
+				{
+				"name":"Windows ",
+				"level":"intermidiate",
+				"ratings":"7"
+			},
+			{
+				"name":"Linux",
+				"level":"intermidiate",
+				"ratings":"7"
+			}
+			
+
+		],
+		"concepts":[
+			{
+				"name":"Programming",
+				"level":"intermidiate",
+				"ratings":"6"
+			},
+			{
+				"name":"OOPS",
+				"level":"beginner",
+				"ratings":"4"
+			},
+			{
+				"name":"Web Development",
+				"level":"beginner",
+				"ratings":"6"
+			}
+			
+			
+		],
+		"tools":[
+			{
+				"name":"Microsoft Word",
+				"level":"beginner",
+				"ratings":"4"
+			}
+			
+		]
+
+	},
+	"language":[
+		{
+			"language":"English",
+			"fluency":"Professional Working"
+		},
+		{
+			"language":"Hindi",
+			"fluency":"Native or bilingual"
+		},
+		{
+			"language":"Urdu",
+			"fluency":"Native or bilingual"
+			}
+
+
+	],
+	"interests":[
+		{
+			"name":"Programming"
+		},
+		{
+			"name":"gaming"
+		},
+		{
+			"name":"Web Development"
+		},
+		{
+			"name":"solving problem definitions"
+		}
+	],
+	"projects":[
+		{
+
+		}
+	],
+	"Certificatation":[
+		{
+			"name":"MS-CIT"
+		}
+	],
+	"mooc":[
+	]
+	
+}
